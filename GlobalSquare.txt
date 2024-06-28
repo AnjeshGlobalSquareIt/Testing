@@ -1,0 +1,63 @@
+FilterLocation LandingPage
+1.preferences ( ->club select time options ->club results)
+
+2. (Individual Tabs)
+hosts--> Host results 
+host club , newly opened , nearest ----> club results.
+
+3. Global Search
+{By default)
+global search ---> club results
+
+
+4. Search by area  ( Pages)
+
+Filter Location 
+(Tabs --> Host Club , Newly Opened, Nearest , Host Results)
+
+5 . Preferences 
+-->Main Host Club 
+
+
+6 . Preferences host 
+--> Hosts Tabs
+
+7 . Preferences NewlyOpened 
+--> Newly Opened TABS , ( NEW STORE)
+
+8. Preferences  Nearest
+(Nearest)
+
+9 . Date Time People
+
+Date Time Dropper
+People County
+Date Time Selected
+Perference Nearest
+
+
+Select By area (same with filterLocatuo)
+
+Select opening hours (Select by working hours)
+
+Login /Register Setup
+
+1st Page --> (3 weeks all) (kiran)
+Login --->
+Register
+OTP/rESEND OTP
+Set Credentials
+
+Home page (UI design with func -> 5 WEEKS)
+   
+My page Search club results + my page search host results (1 WEEK)
+
+Select by criteria -> Club my page + Host My Page (2/3 weeks)
+
+
+3 months UI and static data page 
+
+Search Results
+
+Search Club Results
+Search Host Results
