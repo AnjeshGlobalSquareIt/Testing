@@ -1,0 +1,17 @@
+const isAuthenticated = async () => {
+  const loginData = getLocalStorage("loginData");
+  const token = getLocalStorage("token");
+
+  if (loginData && token) {
+    return loginData;
+  } else if (loginData) {
+    const accessToken = await getNewAccessToken();
+    if (accessToken) {
+      return loginData;
+    } else {
+      return false;
+    }
+  } else {
+    return false;
+  }
+};
