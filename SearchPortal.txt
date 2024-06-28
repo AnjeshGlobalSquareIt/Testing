@@ -1,0 +1,2 @@
+While searching by company name and job title match any keyword with any string in database and return the response
+make common database system (url) /endpoints
